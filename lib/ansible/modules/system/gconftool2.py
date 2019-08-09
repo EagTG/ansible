@@ -60,6 +60,7 @@ EXAMPLES = """
     key: "/desktop/gnome/interface/font_name"
     value_type: "string"
     value: "Serif 12"
+    state: present
 """
 
 RETURN = '''
